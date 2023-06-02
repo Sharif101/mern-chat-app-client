@@ -1,0 +1,23 @@
+.app {
+  background-color: #e4e9f6;
+  min-height: 100vh;
+}
+.logtitile {
+  display: flex;
+  justify-content: center;
+}
+
+.inputfeild {
+  margin-top: 10px;
+}
+.inputfeild label {
+  font-size: 14px;
+}
+
+.customize_btn {
+  -webkit-border-radius: 24px;
+  border-radius: 24px;
+  background: #e8ecf5;
+  -webkit-box-shadow: 12px 12px 24px #c5c9d0, -12px -12px 24px #ffffff;
+  box-shadow: 12px 12px 24px #c5c9d0, -12px -12px 24px #ffffff;
+}
